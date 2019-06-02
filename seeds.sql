@@ -22,7 +22,7 @@ values ("cookies", "snacks", 14.50, 19),
 ("fork", "housewares", 75.00, 400),
 ("canoe", "outdoors", 8.15, 2),
 ("couch", "furniture", 400, 35),
-("television", "electronics", 198.49, 100),
+("tv", "electronics", 198.49, 100),
 ("chips", "snacks", 3.50, 25),
 ("nintendo", "electronics", 750.00, 999),
 ("table", "furniture", 45.45, 37);
