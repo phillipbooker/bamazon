@@ -21,7 +21,9 @@ connection.connect(function(err) {
 	
     connection.query("SELECT * from products", function(err, result, fields){
 		if(err) throw err;
-        console.log(result);
+        // console.log(result);
+
+        console.log("List of items==============\n");
 
         var outRow = "";
         var item_codes = [];
